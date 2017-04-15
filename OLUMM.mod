@@ -106,11 +106,11 @@ OBJECT = OLUIFrontEnd_PauseMenu.PopulateButtons : AUTO
  		19 00 <.DataProvider> [@] <NullRef> 00 ( 1C <GFxUI.GFxObject.SetElementObject> 00 <.I> 00 <.Obj> 16 ) 
  		A5 00 <.I> 16 
  		0F 00 <.Obj> 19 01 <Core.Object.Outer> [@] <GFxUI.GFxMoviePlayer.CreateObject.ReturnValue> 00 ( 1B <CreateObject> 1F <%t "Object"> 4A 4A 16 ) 
- 		19 00 <.Obj> [@] <NullRef> 00 ( 1C <GFxUI.GFxObject.SetString> 1F <%t "label"> 1F <%t "Delete Doors 1"> 4A 16 ) 
+ 		19 00 <.Obj> [@] <NullRef> 00 ( 1C <GFxUI.GFxObject.SetString> 1F <%t "label"> 1F <%t "Delete Doors Safe"> 4A 16 ) 
  		19 00 <.DataProvider> [@] <NullRef> 00 ( 1C <GFxUI.GFxObject.SetElementObject> 00 <.I> 00 <.Obj> 16 )
  		A5 00 <.I> 16 
  		0F 00 <.Obj> 19 01 <Core.Object.Outer> [@] <GFxUI.GFxMoviePlayer.CreateObject.ReturnValue> 00 ( 1B <CreateObject> 1F <%t "Object"> 4A 4A 16 ) 
- 		19 00 <.Obj> [@] <NullRef> 00 ( 1C <GFxUI.GFxObject.SetString> 1F <%t "label"> 1F <%t "Delete Doors 2"> 4A 16 ) 
+ 		19 00 <.Obj> [@] <NullRef> 00 ( 1C <GFxUI.GFxObject.SetString> 1F <%t "label"> 1F <%t "Delete Doors Unsafe"> 4A 16 ) 
  		19 00 <.DataProvider> [@] <NullRef> 00 ( 1C <GFxUI.GFxObject.SetElementObject> 00 <.I> 00 <.Obj> 16 )
  		A5 00 <.I> 16 
  		0F 00 <.Obj> 19 01 <Core.Object.Outer> [@] <GFxUI.GFxMoviePlayer.CreateObject.ReturnValue> 00 ( 1B <CreateObject> 1F <%t "Object"> 4A 4A 16 ) 
